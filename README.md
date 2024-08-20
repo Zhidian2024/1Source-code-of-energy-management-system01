@@ -13,6 +13,13 @@
 三、数字大屏展示
 ![extending-a-theme](/03大屏.png)
 
+四、软件体验
+[🔥 平台介绍](https://gitee.com/clear-wind011/zhidanyun30002)
+   
+[🔥 平台介绍](https://gitee.com/clear-wind011/zhidanyun30002)
+
+[🔥 系统介绍](https://gitee.com/clear-wind011/zhidanyun30002)
+
 四、软件截图
 
 ![extending-a-theme](/01.png)

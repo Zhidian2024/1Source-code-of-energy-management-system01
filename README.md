@@ -15,7 +15,8 @@
 
 四、数据采集原理
 
-
+![extending-a-theme](/0001.png)
+![extending-a-theme](/0002.png)
 
 五、软件截图
 

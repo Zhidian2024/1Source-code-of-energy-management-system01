@@ -41,7 +41,7 @@
 ![extending-a-theme](/19.png)
 ![extending-a-theme](/20.png)
 ![extending-a-theme](/21.png)
-![extending-a-theme](/22.jpg)
+![extending-a-theme](/lianxi.jpg)
 
 
 
